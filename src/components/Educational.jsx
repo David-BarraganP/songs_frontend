@@ -3,7 +3,7 @@ import React from 'react';
 const Educational = () => {
     return (
         <div className="educational-purposes" >
-            Front-end made by Academlo instructors for educational purposes
+            Front-end made for educational purposes
         </div>
     );
 };

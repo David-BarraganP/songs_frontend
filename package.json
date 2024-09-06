@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "2.1.0",
-    "axios": "1.6.7",
+    "axios": "^1.7.7",
     "bootswatch": "5.3.2",
     "react": "18.2.0",
     "react-bootstrap": "2.10.0",
@@ -24,6 +24,6 @@
     "@types/react": "18.2.48",
     "@types/react-dom": "18.2.18",
     "@vitejs/plugin-react": "4.2.1",
-    "vite": "5.0.12"
+    "vite": "^5.4.3"
   }
 }
